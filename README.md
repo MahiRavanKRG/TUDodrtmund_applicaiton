@@ -6,16 +6,17 @@ Repo that contains all the docs and code for my TU-Dortmund (Deutschland) applic
 ### My understanding and problem breakdown
 
 >I need to draw a relation (regression or someting else) between 'winner' & 'passing_rate' and 'looser' & 'passing_rate'.
+
 >Then try to answer the ased questions
 
 ## Approach
 
->I possess No understanding of data and visulation, to first I go to youtube and learn some simple examples of data anylisis and then I approach the core question. Date 26-06-2024
+>I possess No understanding of data and visulation, to first I go to youtube and learn some simple examples of data anylisis and then I approach the core question. **Date 26-06-2024** <br/>
 >Make an algorithm and get it verified somehow.
 
 ## Project file organisation
 
- > problem-statement-Data-&-docs } has the assigment Pdf and data
+ > problem-statement-Data-&-docs } has the assigment Pdf and data 
  > LICENSE } has the license
  > README.md } is the Journal for this assignment and cointains all the data
 
