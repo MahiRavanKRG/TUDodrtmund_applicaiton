@@ -11,7 +11,7 @@ Repo that contains all the docs and code for my TU-Dortmund (Deutschland) applic
 
 ## Approach
 
->I possess No understanding of data and visulation, to first I go to youtube and learn some simple examples of data anylisis and then I approach the core question. **Date 26-06-2024** <br/>
+>I possess No understanding of data and visulation, to first I go to youtube and learn some simple examples of data anylisis and then I approach the core question. **Date 26-06-2024**  
 >Make an algorithm and get it verified somehow.
 
 ## Project file organisation
